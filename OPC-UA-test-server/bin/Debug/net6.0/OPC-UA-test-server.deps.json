@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OPC-UA-test-server/1.0.0": {
+        "runtime": {
+          "OPC-UA-test-server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPC-UA-test-server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

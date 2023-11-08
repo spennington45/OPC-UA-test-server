@@ -1,0 +1,15 @@
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\bin\Debug\net6.0\OPC-UA-test-server.exe
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\bin\Debug\net6.0\OPC-UA-test-server.deps.json
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\bin\Debug\net6.0\OPC-UA-test-server.runtimeconfig.json
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\bin\Debug\net6.0\OPC-UA-test-server.dll
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\bin\Debug\net6.0\OPC-UA-test-server.pdb
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.csproj.AssemblyReference.cache
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.AssemblyInfoInputs.cache
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.AssemblyInfo.cs
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.csproj.CoreCompileInputs.cache
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.dll
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\refint\OPC-UA-test-server.dll
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.pdb
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\OPC-UA-test-server.genruntimeconfig.cache
+C:\Users\spennington\Workspace\ShopClass\OPC-UA-test-server\OPC-UA-test-server\obj\Debug\net6.0\ref\OPC-UA-test-server.dll
